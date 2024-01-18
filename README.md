@@ -3,8 +3,20 @@
 <h3>Обо мне: </h1>
 <p>- Студент 2 курса ИжГТУ им. М.Т.Калашникова специальности "Программная инженерия".</p>
 <p>- Пишу различные приложения на Java.</p>
-<p>- Участвую в различных олимпиадах по спортивному программированию. Участник полуфинала ICPC, призер четвертьфинала ICPC.</p>
+<p>- Участвую в различных олимпиадах по спортивному программированию. Участник полуфинала ICPC, призер четвертьфинала ICPC. Профиль на <a href="https://codeforces.com/profile/alexkorep" target="_blank">Codeforces</a> .</p>
 <p>- Обучаюсь на курсе Backend разработки на Java от "Тинькофф Образование".</p>
 <h3>Мои проекты: </h1>
 <p>- <a href="https://github.com/alexkorep04/Task-Tracker-Application" target="_blank">Task Tracker Application</a> - учебный проект, в котором используются фреймоврки Spring Core, Spring AOP, Spring Data JPA, Spring Boot, Hibernate, а также реляционная БД MySQL, JDK 21.
 Приложение представляет собой таск трекер, благодаря которому можно ставить задачи, просматривать статистику за определенный период времени.</p>
+<p>- <a href="https://github.com/alexkorep04/Fractal-Image-Application" target="_blank">Fractal Creator Application</a> - учебный проект на JDK 21. Предназначен для создания и сохранения в память различных фрактальных изображений. Отрисовка изображения происходит в многопоточной среде. </p>
+<h3>Мой стек технологий: </h3>
+- Java;
+- Spring (Core, AOP, Boot, Security, JPA, MVC);
+- SQL (Hibernate, JDBC);
+- JUNIT;
+- Git;
+- Docker;
+- C/C++;
+<h3>Связь со мной: </h3>
+- Telegram: https://t.me/allexkorep;
+- Email: sashakorepanov42@gmail.com;
