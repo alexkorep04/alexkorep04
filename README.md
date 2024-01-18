@@ -10,13 +10,13 @@
 Приложение представляет собой таск трекер, благодаря которому можно ставить задачи, просматривать статистику за определенный период времени.</p>
 <p>- <a href="https://github.com/alexkorep04/Fractal-Image-Application" target="_blank">Fractal Creator Application</a> - учебный проект на JDK 21. Предназначен для создания и сохранения в память различных фрактальных изображений. Отрисовка изображения происходит в многопоточной среде. </p>
 <h3>Мой стек технологий: </h3>
-- Java;
-- Spring (Core, AOP, Boot, Security, JPA, MVC);
-- SQL (Hibernate, JDBC);
-- JUNIT;
-- Git;
-- Docker;
-- C/C++;
-<h3>Связь со мной: </h3>
-- Telegram: https://t.me/allexkorep;
-- Email: sashakorepanov42@gmail.com;
+<p>- Java;</p>
+<p>- Spring (Core, AOP, Boot, Security, JPA, MVC);</p>
+<p>- SQL (Hibernate, JDBC);</p>
+<p>- JUNIT;</p>
+<p>- Git;</p>
+<p>- Docker;</p>
+<p>- C/C++;</p>
+<h3> Связь со мной: </h3>
+<p>- Telegram: https://t.me/allexkorep;</p>
+<p>- Email: sashakorepanov42@gmail.com;</p>
