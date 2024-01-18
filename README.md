@@ -6,5 +6,5 @@
 <p>- Участвую в различных олимпиадах по спортивному программированию. Участник полуфинала ICPC, призер четвертьфинала ICPC.</p>
 <p>- Обучаюсь на курсе Backend разработки на Java от "Тинькофф Образование".</p>
 <h3>Мои проекты: </h1>
-<p>-<a href="https://github.com/alexkorep04/Task-Tracker-Application" target="_blank">Task Tracker Application</a> - учебный проект, в котором используются фреймоврки Spring Core, Spring AOP, Spring Data JPA, Spring Boot, Hibernate, а также реляционная БД MySQL, JDK 21.
+<p>- <a href="https://github.com/alexkorep04/Task-Tracker-Application" target="_blank">Task Tracker Application</a> - учебный проект, в котором используются фреймоврки Spring Core, Spring AOP, Spring Data JPA, Spring Boot, Hibernate, а также реляционная БД MySQL, JDK 21.
 Приложение представляет собой таск трекер, благодаря которому можно ставить задачи, просматривать статистику за определенный период времени.</p>
