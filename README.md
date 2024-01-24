@@ -16,7 +16,7 @@
 <p>- JUNIT;</p>
 <p>- Git;</p>
 <p>- Docker;</p>
-<p>- C/C++;</p>
+<p>- HTML/CSS;</p>
 <h3> Связь со мной: </h3>
 <p>- Telegram: https://t.me/alexkorep04;</p>
 <p>- Email: sashakorepanov42@gmail.com;</p>
