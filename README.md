@@ -14,6 +14,9 @@
 <p>- Spring (Core, AOP, Boot, Security, JPA, MVC);</p>
 <p>- SQL (Hibernate, JDBC);</p>
 <p>- JUNIT/AssertJ/Mockito;</p>
+<p>- Kafka;</p>
+<p>- Redis;</p>
+<p>- Prometheus+Grafana;</p>
 <p>- Git;</p>
 <p>- Docker;</p>
 <p>- HTML/CSS;</p>
