@@ -12,7 +12,7 @@
 <h3>Мой стек технологий: </h3>
 <p>- Java;</p>
 <p>- Spring (Core, AOP, Boot, Security, JPA, MVC);</p>
-<p>- SQL (Hibernate, JDBC);</p>
+<p>- SQL (Hibernate, JDBC, Jooq);</p>
 <p>- JUNIT/AssertJ/Mockito;</p>
 <p>- Kafka;</p>
 <p>- Redis;</p>
