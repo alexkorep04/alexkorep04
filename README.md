@@ -6,6 +6,8 @@
 <p>- Участвую в различных олимпиадах по спортивному программированию. Участник полуфинала ICPC, призер четвертьфинала ICPC. Профиль на <a href="https://codeforces.com/profile/alexkorep" target="_blank">Codeforces</a> .</p>
 <p>- Обучаюсь на курсе Backend разработки на Java от "Тинькофф Образование".</p>
 <h3>Мои проекты: </h1>
+<p>- <a href="https://github.com/alexkorep04/Tinkoff-course-second-term/tree/hw10" target="_blank">Link Tracker</a> - проект, в котором используются технологии JDK 21, Docker, Pengrad Bot API, Spring Boot, PostgreSQL, Hibernate, Jdbc, Jooq, Liquibase, Kafka, Prometheus+Grafana. Также настроены Retry для различных кодов ошибок, добавлен механизм Rate Limiting.
+Приложение представляет собой линк трекер, благодаря которому можно человек может подписываться на обновление ресурсов на GitHub и StackOverflow. При обновлении ему придет уведомление от телеграм-бота.</p>
 <p>- <a href="https://github.com/alexkorep04/Task-Tracker-Application" target="_blank">Task Tracker Application</a> - учебный проект, в котором используются фреймоврки Spring Core, Spring AOP, Spring Data JPA, Spring Boot, Hibernate, а также реляционная БД MySQL, JDK 21.
 Приложение представляет собой таск трекер, благодаря которому можно ставить задачи, просматривать статистику за определенный период времени.</p>
 <p>- <a href="https://github.com/alexkorep04/Fractal-Image-Application" target="_blank">Fractal Creator Application</a> - учебный проект на JDK 21. Предназначен для создания и сохранения в память различных фрактальных изображений. Отрисовка изображения происходит в многопоточной среде. </p>
